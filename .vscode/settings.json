@@ -1,0 +1,9 @@
+{
+    "code-runner.executorMap": {
+        "dart": "cd $workspaceRoot && flutter run"
+    },
+    "code-runner.runInTerminal": true,
+    "dart.previewFlutterUiGuides": true,
+    "dart.debugSdkLibraries": false,
+    "dart.flutterRunAdditionalArgs": ["-d", "chrome"]
+}
